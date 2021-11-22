@@ -1,8 +1,8 @@
 #include "pxt.h"
 
-namespace hello
+namespace hello_from_cpp
 {
-void do_something()
+ void function_from_cpp()
     {
         uBit.display.scroll("HELLO!", 110);
     }
