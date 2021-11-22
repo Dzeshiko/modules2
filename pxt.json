@@ -9,7 +9,6 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "Ntest.cpp",
         "README.md"
     ],
     "testFiles": [
