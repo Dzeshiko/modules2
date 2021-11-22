@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "Ntest.cpp"
+        "Ntest.cpp",
+        "shims.d.ts"
     ],
     "testFiles": [
         "test.ts"
