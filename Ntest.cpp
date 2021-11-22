@@ -1,8 +1,14 @@
 #include "pxt.h"
-//% color="#AA278D" weight=100
-namespace hello {
-    //% block
-    void helloWorld() {
 
+namespace hello
+{
+
+ /**
+     * test comments
+     */
+     //% block="real_name_of_block"
+      void do_something() 
+    {
     }
+
 }
